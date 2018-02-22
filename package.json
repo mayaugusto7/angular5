@@ -1,0 +1,28 @@
+{
+  "name": "angular5",
+  "version": "1.0.0",
+  "description": "Começando com angular5",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "@angular/core": "^5.2.5",
+    "@angular/platform-browser": "^5.2.5",
+    "@angular/platform-browser-dynamic": "^5.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayribeiro/angular5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayribeiro/angular5/issues"
+  },
+  "homepage": "https://github.com/mayribeiro/angular5#readme"
+}
